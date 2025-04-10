@@ -1,0 +1,6 @@
+/src/main/java/com/master_tauri_nuxt_template/dev/generated
+/src/main/jniLibs/**/*.so
+/src/main/assets/tauri.conf.json
+/tauri.build.gradle.kts
+/proguard-tauri.pro
+/tauri.properties
